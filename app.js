@@ -12,15 +12,9 @@ let myHobby = "drawing"
 let yearOfBirth = 1998;
 let currentYear=2022;
 
-console.log(typeof myName, typeof myHobby, typeof yearOfBirth, typeof currentYear)
-
-// console.log("myName", typeof myName);
-// console.log("myHobby", typeof myHobby);
-// console.log("yearOfBirth", typeof yearOfBirth);
-// console.log("currentYear", typeof currentYear);
+console.log(typeof myName, typeof myHobby, typeof yearOfBirth, typeof currentYear);
 
 let substraction= 2022 - 1998;
-
 
 console.log("My name is " + myName);
 console.log("I am "  + substraction + " years old");
